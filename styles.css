@@ -8,43 +8,9 @@ body, h1, h2, h3, p {
   
   /* Set a maximum width for the website content */
   .container {
-    max-width: 1200px; /* Adjust this value to your desired maximum width */
+    max-width: 1000px; /* Adjust this value to your desired maximum width */
     margin: 0 auto; /* Center the content horizontally */
     padding: 20px; /* Add some padding to the sides */
-  }
-  
-  /* Style your header, navigation, and other elements as needed */
-  
-  /* Example header styling */
-  header {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
-  }
-  
-  /* Example navigation styling */
-  nav {
-    background-color: #444;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
-  }
-  
-  /* Example article styling */
-  article {
-    background-color: #fff;
-    padding: 20px;
-    margin-bottom: 20px;
-    border: 1px solid #ccc;
-  }
-  
-  /* Example footer styling */
-  footer {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
   }
   
   /* Responsive design: Adjust styles for smaller screens if needed */
