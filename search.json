@@ -18,21 +18,7 @@
     "href": "resume.html",
     "title": "Jay Singh - SDE-II (Data Science)",
     "section": "",
-    "text": "Mail | LinkedIn | GitHub"
-  },
-  {
-    "objectID": "resume.html#summary",
-    "href": "resume.html#summary",
-    "title": "Jay Singh - SDE-II (Data Science)",
-    "section": "Summary",
-    "text": "Summary\nExperienced data scientist with a strong background in Python, machine learning, and data analysis. Passionate about deriving insights from complex data and implementing solutions to solve real-world problems."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Jay Singh - SDE-II (Data Science)",
-    "section": "Education",
-    "text": "Education\n\nMaster of Science in Data Science\nUniversity of XYZ - Graduated May 20XX\n\n\nBachelor of Science in Computer Science\nUniversity of ABC - Graduated May 20XX"
+    "text": "Mail | LinkedIn | GitHub\n## Summary\nExperienced data scientist with a strong background in Python, machine learning, and data analysis. Passionate about deriving insights from complex data and implementing solutions to solve real-world problems.\n## Education"
   },
   {
     "objectID": "resume.html#skills",
