@@ -16,72 +16,65 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Jay Singh",
-    "section": "",
-    "text": "Mail | LinkedIn | GitHub\n\n\n\n\nExperienced data scientist with a strong background in Python, machine learning, and data analysis. Passionate about deriving insights from complex data and implementing solutions to solve real-world problems.\n\n\n\n\n\nUniversity of XYZ - Graduated May 20XX\n\n\n\nUniversity of ABC - Graduated May 20XX\n\n\n\n\n\nProgramming: Python, R\nMachine Learning: Scikit-learn, TensorFlow, PyTorch\nData Analysis: Pandas, NumPy\nData Visualization: Matplotlib, Seaborn, Plotly\nSQL and Database Management\nNatural Language Processing (NLP)\nVersion Control: Git\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\n# Skill coverage percentages\nskills = [\"Programming\", \"Machine Learning\", \"Data Analysis\", \"SQL\", \"Data Visualization\", \"NLP\", \"Version Control\"]\npercentages = [90, 85, 80, 75, 70, 60, 70]\n\n# Create a pie chart\nplt.figure(figsize=(8, 8))\nplt.pie(percentages, labels=skills, autopct=\"%1.1f%%\", startangle=140)\nplt.title(\"Skills Coverage\")\n\nplt.show()\n\n\n\n\n\n\n\n\n\n\nJan 20XX - Present\n\nDeveloped predictive models to improve customer retention, resulting in a 15% reduction in churn.\nCollaborated with cross-functional teams to define business objectives and deliver actionable insights.\nImplemented NLP techniques to analyze customer feedback, leading to improvements in product features.\n\n\n\n\nJun 20XX - Aug 20XX\n\nBuilt a recommendation system using collaborative filtering, improving user engagement by 20%.\nConducted exploratory data analysis to identify patterns and anomalies in large datasets.\nCreated interactive data visualizations to communicate insights to non-technical stakeholders.\n\n\n\n\n\n\n\n\nApplied K-Means clustering to segment customers based on their purchase behavior.\nVisualized the results using scatter plots and silhouette analysis.\n\n\n\n\n\nUsed natural language processing techniques to analyze sentiments in Twitter data.\nCreated word clouds and sentiment histograms to visualize the results.\n\n\n\n\n\n\nMachine Learning Specialization - Coursera\nData Science Professional Certificate - edX\n\n\n\n\n\nDoe, J., Smith, A. (20XX). “Predictive Modeling for Customer Churn in Subscription Services.” Journal of Data Science, 10(2), 123-135.\n\n\n\n\nAvailable upon request."
-  },
-  {
-    "objectID": "resume.html#sde-ii-data-science",
-    "href": "resume.html#sde-ii-data-science",
-    "title": "Jay Singh",
+    "title": "Jay Singh - SDE-II (Data Science)",
     "section": "",
     "text": "Mail | LinkedIn | GitHub"
   },
   {
     "objectID": "resume.html#summary",
     "href": "resume.html#summary",
-    "title": "Jay Singh",
-    "section": "",
-    "text": "Experienced data scientist with a strong background in Python, machine learning, and data analysis. Passionate about deriving insights from complex data and implementing solutions to solve real-world problems."
+    "title": "Jay Singh - SDE-II (Data Science)",
+    "section": "Summary",
+    "text": "Summary\nExperienced data scientist with a strong background in Python, machine learning, and data analysis. Passionate about deriving insights from complex data and implementing solutions to solve real-world problems."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Jay Singh",
-    "section": "",
-    "text": "University of XYZ - Graduated May 20XX\n\n\n\nUniversity of ABC - Graduated May 20XX"
+    "title": "Jay Singh - SDE-II (Data Science)",
+    "section": "Education",
+    "text": "Education\n\nMaster of Science in Data Science\nUniversity of XYZ - Graduated May 20XX\n\n\nBachelor of Science in Computer Science\nUniversity of ABC - Graduated May 20XX"
   },
   {
     "objectID": "resume.html#skills",
     "href": "resume.html#skills",
-    "title": "Jay Singh",
-    "section": "",
-    "text": "Programming: Python, R\nMachine Learning: Scikit-learn, TensorFlow, PyTorch\nData Analysis: Pandas, NumPy\nData Visualization: Matplotlib, Seaborn, Plotly\nSQL and Database Management\nNatural Language Processing (NLP)\nVersion Control: Git\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\n# Skill coverage percentages\nskills = [\"Programming\", \"Machine Learning\", \"Data Analysis\", \"SQL\", \"Data Visualization\", \"NLP\", \"Version Control\"]\npercentages = [90, 85, 80, 75, 70, 60, 70]\n\n# Create a pie chart\nplt.figure(figsize=(8, 8))\nplt.pie(percentages, labels=skills, autopct=\"%1.1f%%\", startangle=140)\nplt.title(\"Skills Coverage\")\n\nplt.show()"
+    "title": "Jay Singh - SDE-II (Data Science)",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming: Python, R\nMachine Learning: Scikit-learn, TensorFlow, PyTorch\nData Analysis: Pandas, NumPy\nData Visualization: Matplotlib, Seaborn, Plotly\nSQL and Database Management\nNatural Language Processing (NLP)\nVersion Control: Git\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\n# Skill coverage percentages\nskills = [\"Programming\", \"Machine Learning\", \"Data Analysis\", \"SQL\", \"Data Visualization\", \"NLP\", \"Version Control\"]\npercentages = [90, 85, 80, 75, 70, 60, 70]\n\n# Create a pie chart\nplt.figure(figsize=(8, 8))\nplt.pie(percentages, labels=skills, autopct=\"%1.1f%%\", startangle=140)\nplt.title(\"Skills Coverage\")\n\nplt.show()"
   },
   {
     "objectID": "resume.html#experience",
     "href": "resume.html#experience",
-    "title": "Jay Singh",
-    "section": "",
-    "text": "Jan 20XX - Present\n\nDeveloped predictive models to improve customer retention, resulting in a 15% reduction in churn.\nCollaborated with cross-functional teams to define business objectives and deliver actionable insights.\nImplemented NLP techniques to analyze customer feedback, leading to improvements in product features.\n\n\n\n\nJun 20XX - Aug 20XX\n\nBuilt a recommendation system using collaborative filtering, improving user engagement by 20%.\nConducted exploratory data analysis to identify patterns and anomalies in large datasets.\nCreated interactive data visualizations to communicate insights to non-technical stakeholders."
+    "title": "Jay Singh - SDE-II (Data Science)",
+    "section": "Experience",
+    "text": "Experience\n\nData Scientist | Company XYZ\nJan 20XX - Present\n\nDeveloped predictive models to improve customer retention, resulting in a 15% reduction in churn.\nCollaborated with cross-functional teams to define business objectives and deliver actionable insights.\nImplemented NLP techniques to analyze customer feedback, leading to improvements in product features.\n\n\n\nMachine Learning Engineer Intern | Company ABC\nJun 20XX - Aug 20XX\n\nBuilt a recommendation system using collaborative filtering, improving user engagement by 20%.\nConducted exploratory data analysis to identify patterns and anomalies in large datasets.\nCreated interactive data visualizations to communicate insights to non-technical stakeholders."
   },
   {
     "objectID": "resume.html#projects",
     "href": "resume.html#projects",
-    "title": "Jay Singh",
-    "section": "",
-    "text": "Applied K-Means clustering to segment customers based on their purchase behavior.\nVisualized the results using scatter plots and silhouette analysis.\n\n\n\n\n\nUsed natural language processing techniques to analyze sentiments in Twitter data.\nCreated word clouds and sentiment histograms to visualize the results."
+    "title": "Jay Singh - SDE-II (Data Science)",
+    "section": "Projects",
+    "text": "Projects\n\nCustomer Segmentation Using K-Means Clustering\n\nApplied K-Means clustering to segment customers based on their purchase behavior.\nVisualized the results using scatter plots and silhouette analysis.\n\n\n\nSentiment Analysis of Twitter Data\n\nUsed natural language processing techniques to analyze sentiments in Twitter data.\nCreated word clouds and sentiment histograms to visualize the results."
   },
   {
     "objectID": "resume.html#certifications",
     "href": "resume.html#certifications",
-    "title": "Jay Singh",
-    "section": "",
-    "text": "Machine Learning Specialization - Coursera\nData Science Professional Certificate - edX"
+    "title": "Jay Singh - SDE-II (Data Science)",
+    "section": "Certifications",
+    "text": "Certifications\n\nMachine Learning Specialization - Coursera\nData Science Professional Certificate - edX"
   },
   {
     "objectID": "resume.html#publications",
     "href": "resume.html#publications",
-    "title": "Jay Singh",
-    "section": "",
-    "text": "Doe, J., Smith, A. (20XX). “Predictive Modeling for Customer Churn in Subscription Services.” Journal of Data Science, 10(2), 123-135."
+    "title": "Jay Singh - SDE-II (Data Science)",
+    "section": "Publications",
+    "text": "Publications\n\nDoe, J., Smith, A. (20XX). “Predictive Modeling for Customer Churn in Subscription Services.” Journal of Data Science, 10(2), 123-135."
   },
   {
     "objectID": "resume.html#references",
     "href": "resume.html#references",
-    "title": "Jay Singh",
-    "section": "",
-    "text": "Available upon request."
+    "title": "Jay Singh - SDE-II (Data Science)",
+    "section": "References",
+    "text": "References\nAvailable upon request."
   },
   {
     "objectID": "posts/welcome/index.html",
