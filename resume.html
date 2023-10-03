@@ -6,11 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Jay Rajput">
-<meta name="dcterms.date" content="2022-06-01">
-<meta name="description" content="This is a test post. In this post, I try out different functionalities">
 
-<title>Jay Rajput - This is a dummy blog posts</title>
+<title>Jay Rajput - Jay Singh</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +20,59 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -64,7 +95,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="../../styles.css">
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -74,7 +105,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Jay Rajput</span>
     </a>
   </div>
@@ -85,17 +116,17 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../projects.qmd" rel="" target="">
+    <a class="nav-link" href="./projects.qmd" rel="" target="">
  <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../resume.html" rel="" target="">
+    <a class="nav-link active" href="./resume.html" rel="" target="" aria-current="page">
  <span class="menu-text">Resume</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../blog.html" rel="" target="">
+    <a class="nav-link" href="./blog.html" rel="" target="">
  <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item compact">
@@ -129,9 +160,29 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#heading-1" id="toc-heading-1" class="nav-link active" data-scroll-target="#heading-1">Heading 1</a>
+  <li><a href="#jay-rajput" id="toc-jay-rajput" class="nav-link active" data-scroll-target="#jay-rajput">Jay Rajput</a>
   <ul class="collapse">
-  <li><a href="#merriweather" id="toc-merriweather" class="nav-link" data-scroll-target="#merriweather">Merriweather</a></li>
+  <li><a href="#sde-ii-data-science" id="toc-sde-ii-data-science" class="nav-link" data-scroll-target="#sde-ii-data-science">SDE-II (Data Science)</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
+  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education</a>
+  <ul class="collapse">
+  <li><a href="#master-of-science-in-data-science" id="toc-master-of-science-in-data-science" class="nav-link" data-scroll-target="#master-of-science-in-data-science">Master of Science in Data Science</a></li>
+  <li><a href="#bachelor-of-science-in-computer-science" id="toc-bachelor-of-science-in-computer-science" class="nav-link" data-scroll-target="#bachelor-of-science-in-computer-science">Bachelor of Science in Computer Science</a></li>
+  </ul></li>
+  <li><a href="#skills" id="toc-skills" class="nav-link" data-scroll-target="#skills">Skills</a></li>
+  <li><a href="#experience" id="toc-experience" class="nav-link" data-scroll-target="#experience">Experience</a>
+  <ul class="collapse">
+  <li><a href="#data-scientist-company-xyz" id="toc-data-scientist-company-xyz" class="nav-link" data-scroll-target="#data-scientist-company-xyz">Data Scientist | Company XYZ</a></li>
+  <li><a href="#machine-learning-engineer-intern-company-abc" id="toc-machine-learning-engineer-intern-company-abc" class="nav-link" data-scroll-target="#machine-learning-engineer-intern-company-abc">Machine Learning Engineer Intern | Company ABC</a></li>
+  </ul></li>
+  <li><a href="#projects" id="toc-projects" class="nav-link" data-scroll-target="#projects">Projects</a>
+  <ul class="collapse">
+  <li><a href="#customer-segmentation-using-k-means-clustering" id="toc-customer-segmentation-using-k-means-clustering" class="nav-link" data-scroll-target="#customer-segmentation-using-k-means-clustering">Customer Segmentation Using K-Means Clustering</a></li>
+  <li><a href="#sentiment-analysis-of-twitter-data" id="toc-sentiment-analysis-of-twitter-data" class="nav-link" data-scroll-target="#sentiment-analysis-of-twitter-data">Sentiment Analysis of Twitter Data</a></li>
+  </ul></li>
+  <li><a href="#certifications" id="toc-certifications" class="nav-link" data-scroll-target="#certifications">Certifications</a></li>
+  <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -141,35 +192,14 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">This is a dummy blog posts</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">123</div>
-    <div class="quarto-category">Second Tag</div>
-  </div>
-  </div>
-
-<div>
-  <div class="description">
-    This is a test post. In this post, I try out different functionalities
-  </div>
+<h1 class="title">Jay Singh</h1>
 </div>
+
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Jay Rajput </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">June 1, 2022</p>
-    </div>
-  </div>
   
     
   </div>
@@ -177,12 +207,115 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="heading-1" class="level1">
-<h1>Heading 1</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.</p>
-<section id="merriweather" class="level2">
-<h2 class="anchored" data-anchor-id="merriweather">Merriweather</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. <strong>Aliquam feugiat dictum bibendum.</strong> Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. <a href="https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss">Fusce luctus</a> porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.</p>
+<section id="jay-rajput" class="level1">
+<h1>Jay Rajput</h1>
+<section id="sde-ii-data-science" class="level2">
+<h2 class="anchored" data-anchor-id="sde-ii-data-science">SDE-II (Data Science)</h2>
+<div style="text-align: center;">
+<p><a href="mailto:jrajput262@gmail.com">jrajput262@gmail.com</a> | <a href="https://www.linkedin.com/in/johndoe">LinkedIn</a> | <a href="https://github.com/johndoe">GitHub</a></p>
+</div>
+</section>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>Experienced data scientist with a strong background in Python, machine learning, and data analysis. Passionate about deriving insights from complex data and implementing solutions to solve real-world problems.</p>
+</section>
+<section id="education" class="level2">
+<h2 class="anchored" data-anchor-id="education">Education</h2>
+<section id="master-of-science-in-data-science" class="level3">
+<h3 class="anchored" data-anchor-id="master-of-science-in-data-science">Master of Science in Data Science</h3>
+<p><strong>University of XYZ</strong> - Graduated May 20XX</p>
+</section>
+<section id="bachelor-of-science-in-computer-science" class="level3">
+<h3 class="anchored" data-anchor-id="bachelor-of-science-in-computer-science">Bachelor of Science in Computer Science</h3>
+<p><strong>University of ABC</strong> - Graduated May 20XX</p>
+</section>
+</section>
+<section id="skills" class="level2">
+<h2 class="anchored" data-anchor-id="skills">Skills</h2>
+<ul>
+<li>Programming: Python, R</li>
+<li>Machine Learning: Scikit-learn, TensorFlow, PyTorch</li>
+<li>Data Analysis: Pandas, NumPy</li>
+<li>Data Visualization: Matplotlib, Seaborn, Plotly</li>
+<li>SQL and Database Management</li>
+<li>Natural Language Processing (NLP)</li>
+<li>Version Control: Git</li>
+</ul>
+<div class="cell" data-execution_count="1">
+<details>
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Skill coverage percentages</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>skills <span class="op">=</span> [<span class="st">"Programming"</span>, <span class="st">"Machine Learning"</span>, <span class="st">"Data Analysis"</span>, <span class="st">"SQL"</span>, <span class="st">"Data Visualization"</span>, <span class="st">"NLP"</span>, <span class="st">"Version Control"</span>]</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>percentages <span class="op">=</span> [<span class="dv">90</span>, <span class="dv">85</span>, <span class="dv">80</span>, <span class="dv">75</span>, <span class="dv">70</span>, <span class="dv">60</span>, <span class="dv">70</span>]</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Create a pie chart</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>plt.figure(figsize<span class="op">=</span>(<span class="dv">8</span>, <span class="dv">8</span>))</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>plt.pie(percentages, labels<span class="op">=</span>skills, autopct<span class="op">=</span><span class="st">"</span><span class="sc">%1.1f%%</span><span class="st">"</span>, startangle<span class="op">=</span><span class="dv">140</span>)</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>plt.title(<span class="st">"Skills Coverage"</span>)</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-display">
+<p><img src="resume_files/figure-html/cell-2-output-1.png" width="715" height="631"></p>
+</div>
+</div>
+</section>
+<section id="experience" class="level2">
+<h2 class="anchored" data-anchor-id="experience">Experience</h2>
+<section id="data-scientist-company-xyz" class="level3">
+<h3 class="anchored" data-anchor-id="data-scientist-company-xyz">Data Scientist | Company XYZ</h3>
+<p><em>Jan 20XX - Present</em></p>
+<ul>
+<li>Developed predictive models to improve customer retention, resulting in a 15% reduction in churn.</li>
+<li>Collaborated with cross-functional teams to define business objectives and deliver actionable insights.</li>
+<li>Implemented NLP techniques to analyze customer feedback, leading to improvements in product features.</li>
+</ul>
+</section>
+<section id="machine-learning-engineer-intern-company-abc" class="level3">
+<h3 class="anchored" data-anchor-id="machine-learning-engineer-intern-company-abc">Machine Learning Engineer Intern | Company ABC</h3>
+<p><em>Jun 20XX - Aug 20XX</em></p>
+<ul>
+<li>Built a recommendation system using collaborative filtering, improving user engagement by 20%.</li>
+<li>Conducted exploratory data analysis to identify patterns and anomalies in large datasets.</li>
+<li>Created interactive data visualizations to communicate insights to non-technical stakeholders.</li>
+</ul>
+</section>
+</section>
+<section id="projects" class="level2">
+<h2 class="anchored" data-anchor-id="projects">Projects</h2>
+<section id="customer-segmentation-using-k-means-clustering" class="level3">
+<h3 class="anchored" data-anchor-id="customer-segmentation-using-k-means-clustering">Customer Segmentation Using K-Means Clustering</h3>
+<ul>
+<li>Applied K-Means clustering to segment customers based on their purchase behavior.</li>
+<li>Visualized the results using scatter plots and silhouette analysis.</li>
+</ul>
+</section>
+<section id="sentiment-analysis-of-twitter-data" class="level3">
+<h3 class="anchored" data-anchor-id="sentiment-analysis-of-twitter-data">Sentiment Analysis of Twitter Data</h3>
+<ul>
+<li>Used natural language processing techniques to analyze sentiments in Twitter data.</li>
+<li>Created word clouds and sentiment histograms to visualize the results.</li>
+</ul>
+</section>
+</section>
+<section id="certifications" class="level2">
+<h2 class="anchored" data-anchor-id="certifications">Certifications</h2>
+<ul>
+<li><a href="https://www.coursera.org/specializations/machine-learning">Machine Learning Specialization</a> - Coursera</li>
+<li><a href="https://www.edx.org/professional-certificate/harvardx-data-science">Data Science Professional Certificate</a> - edX</li>
+</ul>
+</section>
+<section id="publications" class="level2">
+<h2 class="anchored" data-anchor-id="publications">Publications</h2>
+<ul>
+<li>Doe, J., Smith, A. (20XX). “Predictive Modeling for Customer Churn in Subscription Services.” <em>Journal of Data Science</em>, 10(2), 123-135.</li>
+</ul>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<p>Available upon request.</p>
 
 
 </section>
@@ -421,8 +554,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
 });
-</script>
-<script src="https://utteranc.es/client.js" repo="JayRajput/blogComments" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
 </script>
 </div> <!-- /content -->
 
