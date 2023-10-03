@@ -25,21 +25,21 @@
     "href": "resume.html#summary",
     "title": "Jay Singh - SDE-II (Data Science)",
     "section": "Summary",
-    "text": "Summary\nExperienced data scientist with a strong background in Python, machine learning, and data analysis. Passionate about deriving insights from complex data and implementing solutions to solve real-world problems."
+    "text": "Summary\n\nExperienced data scientist with a strong background in Python, machine learning, and data analysis. Passionate about deriving insights from complex data and implementing solutions to solve real-world problems."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
     "title": "Jay Singh - SDE-II (Data Science)",
     "section": "Education",
-    "text": "Education\n\nMaster of Science in Data Science\nUniversity of XYZ - Graduated May 20XX\n\n\nBachelor of Science in Computer Science\nUniversity of ABC - Graduated May 20XX"
+    "text": "Education\n\nMaster of Computer Applications\nGujarat Technological University - Graduated 2019\n\n\nBachelor of Computer Applications\nGujarat University - Graduated 2015"
   },
   {
     "objectID": "resume.html#skills",
     "href": "resume.html#skills",
     "title": "Jay Singh - SDE-II (Data Science)",
     "section": "Skills",
-    "text": "Skills\n\nProgramming: Python, R\nMachine Learning: Scikit-learn, TensorFlow, PyTorch\nData Analysis: Pandas, NumPy\nData Visualization: Matplotlib, Seaborn, Plotly\nSQL and Database Management\nNatural Language Processing (NLP)\nVersion Control: Git\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\n# Skill coverage percentages\nskills = [\"Programming\", \"Machine Learning\", \"Data Analysis\", \"SQL\", \"Data Visualization\", \"NLP\", \"Version Control\"]\npercentages = [90, 85, 80, 75, 70, 60, 70]\n\n# Create a pie chart\nplt.figure(figsize=(8, 8))\nplt.pie(percentages, labels=skills, autopct=\"%1.1f%%\", startangle=140)\nplt.title(\"Skills Coverage\")\n\nplt.show()"
+    "text": "Skills\n\nProgramming: Python, R\nMachine Learning: Scikit-learn, TensorFlow, PyTorch\nData Analysis: Pandas, NumPy\nData Visualization: Matplotlib, Seaborn, Plotly\nSQL and Database Management\nNatural Language Processing (NLP)\nVersion Control: Git"
   },
   {
     "objectID": "resume.html#experience",
