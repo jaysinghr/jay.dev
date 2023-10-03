@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jaysinghr.github.io/jay.github.io/about.html</loc>
-    <lastmod>2023-10-03T13:25:10.485Z</lastmod>
+    <loc>https://jaysinghr.github.io/index.html</loc>
+    <lastmod>2023-10-03T13:53:23.885Z</lastmod>
   </url>
   <url>
-    <loc>https://jaysinghr.github.io/jay.github.io/posts/hello-world/index.html</loc>
-    <lastmod>2023-10-03T13:25:09.795Z</lastmod>
+    <loc>https://jaysinghr.github.io/posts/hello-world/index.html</loc>
+    <lastmod>2023-10-03T13:53:23.175Z</lastmod>
   </url>
   <url>
-    <loc>https://jaysinghr.github.io/jay.github.io/posts/welcome/index.html</loc>
-    <lastmod>2023-10-03T13:25:09.275Z</lastmod>
+    <loc>https://jaysinghr.github.io/posts/post-with-code/index.html</loc>
+    <lastmod>2023-10-03T13:53:22.625Z</lastmod>
   </url>
   <url>
-    <loc>https://jaysinghr.github.io/jay.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2023-10-03T13:25:09.535Z</lastmod>
+    <loc>https://jaysinghr.github.io/posts/welcome/index.html</loc>
+    <lastmod>2023-10-03T13:53:22.355Z</lastmod>
   </url>
   <url>
-    <loc>https://jaysinghr.github.io/jay.github.io/index.html</loc>
-    <lastmod>2023-10-03T13:25:10.255Z</lastmod>
+    <loc>https://jaysinghr.github.io/posts/hello-world/new_post.html</loc>
+    <lastmod>2023-10-03T13:53:22.925Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jaysinghr.github.io/blog.html</loc>
+    <lastmod>2023-10-03T13:53:23.635Z</lastmod>
   </url>
 </urlset>
