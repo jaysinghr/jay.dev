@@ -1,7 +1,7 @@
 # Welcome to My Portfolio!
 
 ## About Me
-I'm Jay, a machine learning engineer with a passion for exploring the realms of Machine Learning, Natural Language Processing (NLP), Computer Vision, Stable Diffusion, and Large Language Models (LLMs). I'm always eager to learn new things and dive deep into challenging projects. Besides my technical interests, I enjoy playing Football and Cricket. Currently, I'm focused on building Deep Learning framework for building Stable Diffusion from scratch.
+I'm Jay, a Machine Learning Engineer with a passion for exploring the realms of Machine Learning, Natural Language Processing (NLP), Computer Vision, Stable Diffusion, and Large Language Models (LLMs). I'm always eager to learn new things and dive deep into challenging projects. Besides my technical interests, I enjoy playing Football and Cricket. Currently, I'm focused on building Deep Learning framework for building Stable Diffusion from scratch.
 
 ## Portfolio Sections
 - **Resume:** [Jay's Resume](https://jaysinghr.github.io/resume.html)
