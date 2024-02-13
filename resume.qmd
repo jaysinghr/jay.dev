@@ -1,0 +1,76 @@
+---
+title: "Jay Singh - SDE-II (Data Science)"
+output:
+  html_document:
+    theme: cerulean
+format:
+  html:
+    code-fold: true
+---
+
+<div style="text-align: center;">
+  [Mail](mailto:jrajput262@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jaydeepsinh-rajput) | [GitHub](https://github.com/jaysinghr)
+</div>
+
+
+## Summary
+
+- Experienced data scientist with a strong background in Python, machine learning, and data analysis. Passionate about deriving insights from complex data and implementing solutions to solve real-world problems.
+
+## Education
+
+### Master of Computer Applications
+**Gujarat Technological University** - Graduated 2019
+
+### Bachelor of Computer Applications
+**Gujarat University** - Graduated 2015
+
+
+## Skills
+
+- Programming: Python, R
+- Machine Learning: Scikit-learn, TensorFlow, PyTorch
+- Data Analysis: Pandas, NumPy
+- Data Visualization: Matplotlib, Seaborn, Plotly
+- SQL and Database Management
+- Natural Language Processing (NLP)
+- Version Control: Git
+
+## Experience
+
+### Data Scientist | Company XYZ
+*Jan 20XX - Present*
+
+- Developed predictive models to improve customer retention, resulting in a 15% reduction in churn.
+- Collaborated with cross-functional teams to define business objectives and deliver actionable insights.
+- Implemented NLP techniques to analyze customer feedback, leading to improvements in product features.
+
+### Machine Learning Engineer Intern | Company ABC
+*Jun 20XX - Aug 20XX*
+
+- Built a recommendation system using collaborative filtering, improving user engagement by 20%.
+- Conducted exploratory data analysis to identify patterns and anomalies in large datasets.
+- Created interactive data visualizations to communicate insights to non-technical stakeholders.
+
+## Projects
+
+### Customer Segmentation Using K-Means Clustering
+- Applied K-Means clustering to segment customers based on their purchase behavior.
+- Visualized the results using scatter plots and silhouette analysis.
+
+### Sentiment Analysis of Twitter Data
+- Used natural language processing techniques to analyze sentiments in Twitter data.
+- Created word clouds and sentiment histograms to visualize the results.
+
+## Certifications
+
+- [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) - Coursera
+- [Data Science Professional Certificate](https://www.edx.org/professional-certificate/harvardx-data-science) - edX
+
+## Publications
+
+- Doe, J., Smith, A. (20XX). "Predictive Modeling for Customer Churn in Subscription Services." *Journal of Data Science*, 10(2), 123-135.
+
+## References
+
+Available upon request.
