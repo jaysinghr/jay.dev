@@ -88,7 +88,7 @@
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "I am a Sr. Data Scientist at Oracle. I have an extensive background working with varied data sets and using advanced analytics to enable business stakeholders to make informed decisions.\nI recently expanded my skill set to include topics like Quarto, tidymodels, working in cross-language R/Python environment using reticulate, and data visualizations using animation and interactivity. I love learning new things constantly and sharing my knowledge with others in a digestible manner."
+    "text": "I am a Software Developer II at Oracle. I have an extensive background working in Machine Learning, Deep Learning, Computer Vision, NLP, NLU with varied data sets and using advanced analytics to enable business stakeholders to make informed decisions.\nI recently expanded my skill set to Generative AI which include topics like Stable Diffusion, Large Language Models(RAG, Fine tuning), Hugging face, Langchain. I love learning new things constantly and sharing my knowledge with others in a easy and digestible manner."
   },
   {
     "objectID": "blog.html",
@@ -107,35 +107,35 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "My Projects",
+    "title": "My Personal Projects",
     "section": "",
     "text": "This document provides an overview of key projects I have undertaken, showcasing my skills and expertise in various domains."
   },
   {
     "objectID": "projects.html#overview",
     "href": "projects.html#overview",
-    "title": "My Projects",
+    "title": "My Personal Projects",
     "section": "",
     "text": "This document provides an overview of key projects I have undertaken, showcasing my skills and expertise in various domains."
   },
   {
-    "objectID": "projects.html#project-1-title-of-project-1",
-    "href": "projects.html#project-1-title-of-project-1",
-    "title": "My Projects",
-    "section": "Project 1: Title of Project 1",
-    "text": "Project 1: Title of Project 1\n\nOverview\nProvide a brief overview of the project, including its purpose, goals, and context.\n\n\nKey Technologies\nList the key technologies, tools, and programming languages used in the project.\n\n\nProject Highlights\nHighlight notable aspects of the project, such as challenges faced, innovative solutions implemented, or unique features developed.\n\n\nOutcome\nDiscuss the overall outcome and impact of the project, including any measurable results or achievements."
+    "objectID": "projects.html#project-1-minimalai---a-flexible-deep-learning-framework",
+    "href": "projects.html#project-1-minimalai---a-flexible-deep-learning-framework",
+    "title": "My Personal Projects",
+    "section": "Project 1: minimalai - A Flexible Deep Learning Framework",
+    "text": "Project 1: minimalai - A Flexible Deep Learning Framework\n\nOverview\nBuilding a custom Deep Learning framework, ‘MinimalAI’, entirely from scratch using Python. The goal of this project is to develop a flexible deep learning framework that can be easily adapted for different use cases. This showcases progression from foundational concepts to achieving stable diffusion in deep learning.\n\n\nKey Technologies\n\nPython\nPyTorch\nDiffusers\neinops\ntimm\ndatasets\nfastcore\nmatplotlib\n\n\n\nProject Highlights\nBuilding a flexible Deep Learning framework from scratch. From Deep Learning foundations to building Stable Diffusion. This includes, - Creating Dataloaders and Datasets - Using Callbacks - Convolutions - Flexible Learner - Initialization methods - Activations - Optimizers - Augmentations - Attention based Stable Diffusion(DDPM, DDIM, VAE, Latents)\n\n\nOutcome\nThis framework can be customized and used anywhere to build, train, evaluate Deep Learning models."
   },
   {
-    "objectID": "projects.html#project-2-title-of-project-2",
-    "href": "projects.html#project-2-title-of-project-2",
-    "title": "My Projects",
-    "section": "Project 2: Title of Project 2",
-    "text": "Project 2: Title of Project 2\n\nOverview\nProvide a brief overview of the project, including its purpose, goals, and context.\n\n\nKey Technologies\nList the key technologies, tools, and programming languages used in the project.\n\n\nProject Highlights\nHighlight notable aspects of the project, such as challenges faced, innovative solutions implemented, or unique features developed.\n\n\nOutcome\nDiscuss the overall outcome and impact of the project, including any measurable results or achievements."
+    "objectID": "projects.html#project-2-oracle-cloud---rag-application-based-on-llama-2",
+    "href": "projects.html#project-2-oracle-cloud---rag-application-based-on-llama-2",
+    "title": "My Personal Projects",
+    "section": "Project 2: Oracle Cloud - RAG Application based on LLAMA 2",
+    "text": "Project 2: Oracle Cloud - RAG Application based on LLAMA 2\n\nOverview\nProvide a brief overview of the project, including its purpose, goals, and context.\n\n\nKey Technologies\nList the key technologies, tools, and programming languages used in the project.\n\n\nProject Highlights\nHighlight notable aspects of the project, such as challenges faced, innovative solutions implemented, or unique features developed.\n\n\nOutcome\nDiscuss the overall outcome and impact of the project, including any measurable results or achievements."
   },
   {
     "objectID": "projects.html#project-3-title-of-project-3",
     "href": "projects.html#project-3-title-of-project-3",
-    "title": "My Projects",
+    "title": "My Personal Projects",
     "section": "Project 3: Title of Project 3",
     "text": "Project 3: Title of Project 3\n\nOverview\nProvide a brief overview of the project, including its purpose, goals, and context.\n\n\nKey Technologies\nList the key technologies, tools, and programming languages used in the project.\n\n\nProject Highlights\nHighlight notable aspects of the project, such as challenges faced, innovative solutions implemented, or unique features developed.\n\n\nOutcome\nDiscuss the overall outcome and impact of the project, including any measurable results or achievements."
   }

@@ -1,5 +1,5 @@
 ---
-title: "My Projects"
+title: "My Personal Projects"
 output:
   html_document:
     theme: spacelab
@@ -14,7 +14,44 @@ output:
 
 This document provides an overview of key projects I have undertaken, showcasing my skills and expertise in various domains.
 
-## Project 1: Title of Project 1
+## Project 1: minimalai - A Flexible Deep Learning Framework
+
+### Overview
+
+Building a custom Deep Learning framework, 'MinimalAI', entirely from scratch using Python. The goal of this project is to develop a flexible deep learning framework that can be easily adapted for different use cases. This showcases progression from foundational concepts to achieving stable diffusion in deep learning.
+
+### Key Technologies
+
+- Python
+- PyTorch
+- Diffusers 
+- einops 
+- timm 
+- datasets 
+- fastcore
+- matplotlib
+
+### Project Highlights
+
+Building a flexible Deep Learning framework from scratch. From Deep Learning foundations to building Stable Diffusion. This includes,
+- Creating Dataloaders and Datasets
+- Using Callbacks
+- Convolutions
+- Flexible Learner
+- Initialization methods
+- Activations
+- Optimizers
+- Augmentations
+- Attention based Stable Diffusion(DDPM, DDIM, VAE, Latents)
+
+
+### Outcome
+
+This framework can be customized and used anywhere to build, train, evaluate Deep Learning models. 
+
+
+
+## Project 2: Oracle Cloud - RAG Application based on LLAMA 2
 
 ### Overview
 
@@ -32,23 +69,7 @@ Highlight notable aspects of the project, such as challenges faced, innovative s
 
 Discuss the overall outcome and impact of the project, including any measurable results or achievements.
 
-## Project 2: Title of Project 2
 
-### Overview
-
-Provide a brief overview of the project, including its purpose, goals, and context.
-
-### Key Technologies
-
-List the key technologies, tools, and programming languages used in the project.
-
-### Project Highlights
-
-Highlight notable aspects of the project, such as challenges faced, innovative solutions implemented, or unique features developed.
-
-### Outcome
-
-Discuss the overall outcome and impact of the project, including any measurable results or achievements.
 
 ## Project 3: Title of Project 3
 

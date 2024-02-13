@@ -6,21 +6,24 @@ about:
   image-width: 15em
   image-shape: round
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/__Jay_Singh__
+    - icon: kaggle
+      text: Kaggle
+      href: https://www.kaggle.com/anticsishere
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/jaydeepsinh-rajput/
     - icon: github
       text: Github
       href: https://github.com/jaysinghr
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/__Jay_Singh__
     - icon: envelope
       text: Contact me
       href: mailto:jrajput262@gmail.com
 
 ---
-I am a Sr. Data Scientist at Oracle. I have an extensive background working with varied data sets and using advanced analytics to enable business stakeholders to make informed decisions.
+I am a Software Developer II at Oracle. I have an extensive background working in Machine Learning, Deep Learning, Computer Vision, NLP, NLU with varied data sets and using advanced analytics to enable business stakeholders to make informed decisions.
 
-I recently expanded my skill set to include topics like Quarto, tidymodels, working in cross-language R/Python environment using reticulate, and data visualizations using animation and interactivity. I love learning new things constantly and sharing my knowledge with others in a digestible manner.
+I recently expanded my skill set to Generative AI which include topics like Stable Diffusion, Large Language Models(RAG, Fine tuning), Hugging face, Langchain. I love learning new things constantly and sharing my knowledge with others in a easy and digestible manner.
 ---
