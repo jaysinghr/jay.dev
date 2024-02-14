@@ -51,7 +51,7 @@ Building a flexible Deep Learning framework from scratch. From Deep Learning fou
 
 This framework can be customized and used anywhere to build, train, evaluate Deep Learning models. 
 
-
+---
 
 ## Project 2: Oracle Cloud - RAG Application based on LLAMA 2
 
@@ -71,7 +71,7 @@ Highlight notable aspects of the project, such as challenges faced, innovative s
 
 Discuss the overall outcome and impact of the project, including any measurable results or achievements.
 
-
+---
 
 ## Project 3: Title of Project 3
 
