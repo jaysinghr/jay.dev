@@ -8,6 +8,7 @@ output:
     toc_depth: 2
     toc_float:
       collapsed: false
+    css: styles.css
 ---
 
 ## Overview
