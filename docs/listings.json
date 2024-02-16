@@ -2,19 +2,14 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/blogs.html",
-      "/index.html",
-      "/projects.html",
-      "/resume.html"
+      "/posts/blogs.html",
+      "/posts/new_post.html"
     ]
   },
   {
-    "listing": "/blogs.html",
+    "listing": "/posts/blogs.html",
     "items": [
-      "/blog.html",
-      "/index.html",
-      "/projects.html",
-      "/resume.html"
+      "/posts/new_post.html"
     ]
   }
 ]

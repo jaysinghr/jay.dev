@@ -8,12 +8,42 @@
 <title>Jay Rajput</title>
 <link>https://jaysinghr.github.io/blog.html</link>
 <atom:link href="https://jaysinghr.github.io/blog.xml" rel="self" type="application/rss+xml"/>
-<description>These include notebooks, blogs, etc... If you found value in my notebook, I would greatly appreciate your support through an UPVOTE. Additionally, I welcome any constructive reviews or suggestions for improvement. Thank you for your consideration!</description>
+<description>This is Jay&#39;s personal blog.</description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Fri, 16 Feb 2024 09:17:45 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Feb 2024 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>Python Callbacks: Which Not Everybody Knows</title>
+  <dc:creator>Jay Rajput</dc:creator>
+  <link>https://jaysinghr.github.io/posts/new_post.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="python-callbacks" class="level2">
+<h2 class="anchored" data-anchor-id="python-callbacks">Python Callbacks</h2>
+<section id="description" class="level3">
+<h3 class="anchored" data-anchor-id="description">Description</h3>
+<p>There is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.</p>
+</section>
+<section id="link" class="level3">
+<h3 class="anchored" data-anchor-id="link">Link</h3>
+<p><a href="https://www.kaggle.com/code/anticsishere/python-callbacks-which-not-everybody-knows">Python Callbacks: Which Not Everybody Knows</a>.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>Python</category>
+  <category>Callbacks</category>
+  <category>Deep Learning</category>
+  <guid>https://jaysinghr.github.io/posts/new_post.html</guid>
+  <pubDate>Fri, 16 Feb 2024 18:30:00 GMT</pubDate>
+</item>
 <item>
   <title>Here are some of the content that I shared with the community</title>
-  <link>https://jaysinghr.github.io/blogs.html</link>
+  <dc:creator>Jay Rajput</dc:creator>
+  <link>https://jaysinghr.github.io/posts/blogs.html</link>
   <description><![CDATA[ 
 
 
@@ -72,11 +102,11 @@
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Python,Visualization,Callbacks,Initializations,Activations,Optimizers,Learner,Augmentations,Deep Learning" data-listing-file-modified-sort="1708074816762" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="0" data-categories="Python,Callbacks,Deep Learning" data-listing-date-sort="1708108200000" data-listing-file-modified-sort="1708072260739" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="body">
-<a href="./blog.html">
+<a href="../posts/new_post.html">
 <h3 class="no-anchor listing-title">
-Here are some of the content that I shared with the community
+Python Callbacks: Which Not Everybody Knows
 </h3>
 <div class="listing-subtitle">
 
@@ -86,107 +116,26 @@ Here are some of the content that I shared with the community
 <div class="listing-category" onclick="window.quartoListingCategory('Python'); return false;">
 Python
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Visualization'); return false;">
-Visualization
-</div>
 <div class="listing-category" onclick="window.quartoListingCategory('Callbacks'); return false;">
 Callbacks
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Initializations'); return false;">
-Initializations
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Activations'); return false;">
-Activations
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Optimizers'); return false;">
-Optimizers
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Learner'); return false;">
-Learner
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Augmentations'); return false;">
-Augmentations
 </div>
 <div class="listing-category" onclick="window.quartoListingCategory('Deep Learning'); return false;">
 Deep Learning
 </div>
 </div>
-<a href="./blog.html">
+<a href="../posts/new_post.html">
 <div class="listing-description">
-<p>These include notebooks, blogs, etc… If you found value in my notebook, I would greatly appreciate your support through an UPVOTE. Additionally, I welcome any constructive reviews or suggestions for improvement. Thank you for your consideration!</p>
+<p>There is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.</p>
 </div>
 </a>
 </div>
 <div class="metadata">
-<a href="./blog.html">
+<a href="../posts/new_post.html">
+<div class="listing-date">
+Feb 17, 2024
+</div>
 <div class="listing-reading-time">
 1 min
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1707823376078" data-listing-reading-time-sort="1">
-<div class="body">
-<a href="./index.html">
-<h3 class="no-anchor listing-title">
-About
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:index.html -->
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./index.html">
-<div class="listing-reading-time">
-1 min
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1707882589193" data-listing-reading-time-sort="2">
-<div class="body">
-<a href="./projects.html">
-<h3 class="no-anchor listing-title">
-My Personal Projects
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:projects.html -->
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./projects.html">
-<div class="listing-reading-time">
-2 min
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-file-modified-sort="1707815955739" data-listing-reading-time-sort="2">
-<div class="body">
-<a href="./resume.html">
-<h3 class="no-anchor listing-title">
-Jay Singh - SDE-II (Data Science)
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:resume.html -->
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./resume.html">
-<div class="listing-reading-time">
-2 min
 </div>
 </a>
 </div>
@@ -205,210 +154,8 @@ No matching items
   <category>Learner</category>
   <category>Augmentations</category>
   <category>Deep Learning</category>
-  <guid>https://jaysinghr.github.io/blogs.html</guid>
-  <pubDate>Fri, 16 Feb 2024 09:17:45 GMT</pubDate>
-</item>
-<item>
-  <title>About</title>
-  <link>https://jaysinghr.github.io/index.html</link>
-  <description><![CDATA[ 
-<p>I am a Software Developer II at Oracle. I have an extensive background working in Machine Learning, Deep Learning, Computer Vision, NLP, NLU with varied data sets and using advanced analytics to enable business stakeholders to make informed decisions.</p>
-<p>I recently expanded my skill set to Generative AI which include topics like Stable Diffusion, Large Language Models(RAG, Fine tuning), Hugging face, Langchain. I love learning new things constantly and sharing my knowledge with others in a easy and digestible manner.</p>
-<hr>
-
-
- ]]></description>
-  <guid>https://jaysinghr.github.io/index.html</guid>
-  <pubDate>Fri, 16 Feb 2024 09:17:45 GMT</pubDate>
-  <media:content url="https://jaysinghr.github.io/my-profile.png" medium="image" type="image/png" height="144" width="144"/>
-</item>
-<item>
-  <title>My Personal Projects</title>
-  <link>https://jaysinghr.github.io/projects.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="overview" class="level2">
-<h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>This document provides an overview of key projects I have undertaken, showcasing my skills and expertise in various domains.</p>
-<hr>
-</section>
-<section id="project-1-minimalai---a-flexible-deep-learning-framework" class="level2">
-<h2 class="anchored" data-anchor-id="project-1-minimalai---a-flexible-deep-learning-framework">Project 1: minimalai - A Flexible Deep Learning Framework</h2>
-<section id="overview-1" class="level3">
-<h3 class="anchored" data-anchor-id="overview-1">Overview</h3>
-<p>Building a custom Deep Learning framework, ‘MinimalAI’, entirely from scratch using Python. The goal of this project is to develop a flexible deep learning framework that can be easily adapted for different use cases. This showcases progression from foundational concepts to achieving stable diffusion in deep learning.</p>
-</section>
-<section id="key-technologies" class="level3">
-<h3 class="anchored" data-anchor-id="key-technologies">Key Technologies</h3>
-<ul>
-<li>Python</li>
-<li>PyTorch</li>
-<li>Diffusers</li>
-<li>einops</li>
-<li>timm</li>
-<li>datasets</li>
-<li>fastcore</li>
-<li>matplotlib</li>
-</ul>
-</section>
-<section id="project-highlights" class="level3">
-<h3 class="anchored" data-anchor-id="project-highlights">Project Highlights</h3>
-<p>Building a flexible Deep Learning framework from scratch. From Deep Learning foundations to building Stable Diffusion. This includes, - Creating Dataloaders and Datasets - Using Callbacks - Convolutions - Flexible Learner - Initialization methods - Activations - Optimizers - Augmentations - Attention based Stable Diffusion(DDPM, DDIM, VAE, Latents)</p>
-</section>
-<section id="outcome" class="level3">
-<h3 class="anchored" data-anchor-id="outcome">Outcome</h3>
-<p>This framework can be customized and used anywhere to build, train, evaluate Deep Learning models.</p>
-<hr>
-</section>
-</section>
-<section id="project-2-oracle-cloud---rag-application-based-on-llama-2" class="level2">
-<h2 class="anchored" data-anchor-id="project-2-oracle-cloud---rag-application-based-on-llama-2">Project 2: Oracle Cloud - RAG Application based on LLAMA 2</h2>
-<section id="overview-2" class="level3">
-<h3 class="anchored" data-anchor-id="overview-2">Overview</h3>
-<p>Provide a brief overview of the project, including its purpose, goals, and context.</p>
-</section>
-<section id="key-technologies-1" class="level3">
-<h3 class="anchored" data-anchor-id="key-technologies-1">Key Technologies</h3>
-<p>List the key technologies, tools, and programming languages used in the project.</p>
-</section>
-<section id="project-highlights-1" class="level3">
-<h3 class="anchored" data-anchor-id="project-highlights-1">Project Highlights</h3>
-<p>Highlight notable aspects of the project, such as challenges faced, innovative solutions implemented, or unique features developed.</p>
-</section>
-<section id="outcome-1" class="level3">
-<h3 class="anchored" data-anchor-id="outcome-1">Outcome</h3>
-<p>Discuss the overall outcome and impact of the project, including any measurable results or achievements.</p>
-<hr>
-</section>
-</section>
-<section id="project-3-title-of-project-3" class="level2">
-<h2 class="anchored" data-anchor-id="project-3-title-of-project-3">Project 3: Title of Project 3</h2>
-<section id="overview-3" class="level3">
-<h3 class="anchored" data-anchor-id="overview-3">Overview</h3>
-<p>Provide a brief overview of the project, including its purpose, goals, and context.</p>
-</section>
-<section id="key-technologies-2" class="level3">
-<h3 class="anchored" data-anchor-id="key-technologies-2">Key Technologies</h3>
-<p>List the key technologies, tools, and programming languages used in the project.</p>
-</section>
-<section id="project-highlights-2" class="level3">
-<h3 class="anchored" data-anchor-id="project-highlights-2">Project Highlights</h3>
-<p>Highlight notable aspects of the project, such as challenges faced, innovative solutions implemented, or unique features developed.</p>
-</section>
-<section id="outcome-2" class="level3">
-<h3 class="anchored" data-anchor-id="outcome-2">Outcome</h3>
-<p>Discuss the overall outcome and impact of the project, including any measurable results or achievements.</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <guid>https://jaysinghr.github.io/projects.html</guid>
-  <pubDate>Fri, 16 Feb 2024 09:17:45 GMT</pubDate>
-</item>
-<item>
-  <title>Jay Singh - SDE-II (Data Science)</title>
-  <link>https://jaysinghr.github.io/resume.html</link>
-  <description><![CDATA[ 
-
-
-
-<div style="text-align: center;">
-<p><a href="mailto:jrajput262@gmail.com">Mail</a> | <a href="https://www.linkedin.com/in/jaydeepsinh-rajput">LinkedIn</a> | <a href="https://github.com/jaysinghr">GitHub</a></p>
-</div>
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<ul>
-<li>Experienced data scientist with a strong background in Python, machine learning, and data analysis. Passionate about deriving insights from complex data and implementing solutions to solve real-world problems.</li>
-</ul>
-</section>
-<section id="education" class="level2">
-<h2 class="anchored" data-anchor-id="education">Education</h2>
-<section id="master-of-computer-applications" class="level3">
-<h3 class="anchored" data-anchor-id="master-of-computer-applications">Master of Computer Applications</h3>
-<p><strong>Gujarat Technological University</strong> - Graduated 2019</p>
-</section>
-<section id="bachelor-of-computer-applications" class="level3">
-<h3 class="anchored" data-anchor-id="bachelor-of-computer-applications">Bachelor of Computer Applications</h3>
-<p><strong>Gujarat University</strong> - Graduated 2015</p>
-</section>
-</section>
-<section id="skillsss" class="level2">
-<h2 class="anchored" data-anchor-id="skillsss">Skillsss</h2>
-<ul>
-<li>Programming: Python, R</li>
-<li>Machine Learning: Scikit-learn, TensorFlow, PyTorch</li>
-<li>Data Analysis: Pandas, NumPy</li>
-<li>Data Visualization: Matplotlib, Seaborn, Plotly</li>
-<li>SQL and Database Management</li>
-<li>Natural Language Processing (NLP)</li>
-<li>Version Control: Git</li>
-</ul>
-</section>
-<section id="experience" class="level2">
-<h2 class="anchored" data-anchor-id="experience">Experience</h2>
-<section id="data-scientist-company-xyz" class="level3">
-<h3 class="anchored" data-anchor-id="data-scientist-company-xyz">Data Scientist | Company XYZ</h3>
-<p><em>Jan 20XX - Present</em></p>
-<ul>
-<li>Developed predictive models to improve customer retention, resulting in a 15% reduction in churn.</li>
-<li>Collaborated with cross-functional teams to define business objectives and deliver actionable insights.</li>
-<li>Implemented NLP techniques to analyze customer feedback, leading to improvements in product features.</li>
-</ul>
-</section>
-<section id="machine-learning-engineer-intern-company-abc" class="level3">
-<h3 class="anchored" data-anchor-id="machine-learning-engineer-intern-company-abc">Machine Learning Engineer Intern | Company ABC</h3>
-<p><em>Jun 20XX - Aug 20XX</em></p>
-<ul>
-<li>Built a recommendation system using collaborative filtering, improving user engagement by 20%.</li>
-<li>Conducted exploratory data analysis to identify patterns and anomalies in large datasets.</li>
-<li>Created interactive data visualizations to communicate insights to non-technical stakeholders.</li>
-</ul>
-</section>
-</section>
-<section id="projects" class="level2">
-<h2 class="anchored" data-anchor-id="projects">Projects</h2>
-<section id="customer-segmentation-using-k-means-clustering" class="level3">
-<h3 class="anchored" data-anchor-id="customer-segmentation-using-k-means-clustering">Customer Segmentation Using K-Means Clustering</h3>
-<ul>
-<li>Applied K-Means clustering to segment customers based on their purchase behavior.</li>
-<li>Visualized the results using scatter plots and silhouette analysis.</li>
-</ul>
-</section>
-<section id="sentiment-analysis-of-twitter-data" class="level3">
-<h3 class="anchored" data-anchor-id="sentiment-analysis-of-twitter-data">Sentiment Analysis of Twitter Data</h3>
-<ul>
-<li>Used natural language processing techniques to analyze sentiments in Twitter data.</li>
-<li>Created word clouds and sentiment histograms to visualize the results.</li>
-</ul>
-</section>
-</section>
-<section id="certifications" class="level2">
-<h2 class="anchored" data-anchor-id="certifications">Certifications</h2>
-<ul>
-<li><a href="https://www.coursera.org/specializations/machine-learning">Machine Learning Specialization</a> - Coursera</li>
-<li><a href="https://www.edx.org/professional-certificate/harvardx-data-science">Data Science Professional Certificate</a> - edX</li>
-</ul>
-</section>
-<section id="publications" class="level2">
-<h2 class="anchored" data-anchor-id="publications">Publications</h2>
-<ul>
-<li>Doe, J., Smith, A. (20XX). “Predictive Modeling for Customer Churn in Subscription Services.” <em>Journal of Data Science</em>, 10(2), 123-135.</li>
-</ul>
-</section>
-<section id="references" class="level2">
-<h2 class="anchored" data-anchor-id="references">References</h2>
-<p>Available upon request.</p>
-
-
-</section>
-
- ]]></description>
-  <guid>https://jaysinghr.github.io/resume.html</guid>
-  <pubDate>Fri, 16 Feb 2024 09:17:45 GMT</pubDate>
+  <guid>https://jaysinghr.github.io/posts/blogs.html</guid>
+  <pubDate>Fri, 16 Feb 2024 09:23:36 GMT</pubDate>
 </item>
 </channel>
 </rss>

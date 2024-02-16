@@ -63,6 +63,20 @@
     "text": "References\nAvailable upon request."
   },
   {
+    "objectID": "posts/new_post.html",
+    "href": "posts/new_post.html",
+    "title": "Python Callbacks: Which Not Everybody Knows",
+    "section": "",
+    "text": "There is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.\n\n\n\nPython Callbacks: Which Not Everybody Knows."
+  },
+  {
+    "objectID": "posts/new_post.html#python-callbacks",
+    "href": "posts/new_post.html#python-callbacks",
+    "title": "Python Callbacks: Which Not Everybody Knows",
+    "section": "",
+    "text": "There is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.\n\n\n\nPython Callbacks: Which Not Everybody Knows."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About",
@@ -72,41 +86,27 @@
   {
     "objectID": "blog.html",
     "href": "blog.html",
+    "title": "Jay Rajput",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nHere are some of the content that I shared with the community\n\n\n\n\n\n\n\nPython\n\n\nVisualization\n\n\nCallbacks\n\n\nInitializations\n\n\nActivations\n\n\nOptimizers\n\n\nLearner\n\n\nAugmentations\n\n\nDeep Learning\n\n\n\n\nThese include notebooks, blogs, etc… If you found value in my notebook, I would greatly appreciate your support through an UPVOTE. Additionally, I welcome any constructive reviews or suggestions for improvement. Thank you for your consideration!\n\n\n\n\n\n\n1 min\n\n\n\n\n\n\n\n\nPython Callbacks: Which Not Everybody Knows\n\n\n\n\n\n\n\nPython\n\n\nCallbacks\n\n\nDeep Learning\n\n\n\n\nThere is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.\n\n\n\n\n\n\nFeb 17, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/blogs.html",
+    "href": "posts/blogs.html",
     "title": "Here are some of the content that I shared with the community",
     "section": "",
     "text": "Learn how to build your own Learner class and create callbacks to customize your training loop in Python.\n\n\n\nPython Callbacks: Kaggle Notebook."
   },
   {
-    "objectID": "blog.html#python-callbacks-which-not-everybody-knows",
-    "href": "blog.html#python-callbacks-which-not-everybody-knows",
+    "objectID": "posts/blogs.html#python-callbacks-which-not-everybody-knows",
+    "href": "posts/blogs.html#python-callbacks-which-not-everybody-knows",
     "title": "Here are some of the content that I shared with the community",
     "section": "",
     "text": "Learn how to build your own Learner class and create callbacks to customize your training loop in Python.\n\n\n\nPython Callbacks: Kaggle Notebook."
   },
   {
-    "objectID": "blog.html#animal-classifier-identifying-90-different-animals-with-fastai",
-    "href": "blog.html#animal-classifier-identifying-90-different-animals-with-fastai",
-    "title": "Here are some of the content that I shared with the community",
-    "section": "Animal Classifier: Identifying 90 Different Animals with Fastai",
-    "text": "Animal Classifier: Identifying 90 Different Animals with Fastai\n\nDescription\nExplore my animal classifier project, where I trained a deep learning model to identify 90 different animals using Fastai. Check out the notebook to dive into the details of the model training process and see the classifier in action. If you find it useful, feel free to give it a try and provide feedback!\n\n\nLinks\n\nAnimal Classifier: Kaggle Notebook\nAnimal Classifier: Hugging Face Space Link"
-  },
-  {
-    "objectID": "blogs.html",
-    "href": "blogs.html",
-    "title": "Here are some of the content that I shared with the community",
-    "section": "",
-    "text": "Learn how to build your own Learner class and create callbacks to customize your training loop in Python.\n\n\n\nPython Callbacks: Kaggle Notebook."
-  },
-  {
-    "objectID": "blogs.html#python-callbacks-which-not-everybody-knows",
-    "href": "blogs.html#python-callbacks-which-not-everybody-knows",
-    "title": "Here are some of the content that I shared with the community",
-    "section": "",
-    "text": "Learn how to build your own Learner class and create callbacks to customize your training loop in Python.\n\n\n\nPython Callbacks: Kaggle Notebook."
-  },
-  {
-    "objectID": "blogs.html#animal-classifier-identifying-90-different-animals-with-fastai",
-    "href": "blogs.html#animal-classifier-identifying-90-different-animals-with-fastai",
+    "objectID": "posts/blogs.html#animal-classifier-identifying-90-different-animals-with-fastai",
+    "href": "posts/blogs.html#animal-classifier-identifying-90-different-animals-with-fastai",
     "title": "Here are some of the content that I shared with the community",
     "section": "Animal Classifier: Identifying 90 Different Animals with Fastai",
     "text": "Animal Classifier: Identifying 90 Different Animals with Fastai\n\nDescription\nExplore my animal classifier project, where I trained a deep learning model to identify 90 different animals using Fastai. Check out the notebook to dive into the details of the model training process and see the classifier in action. If you find it useful, feel free to give it a try and provide feedback!\n\n\nLinks\n\nAnimal Classifier: Kaggle Notebook\nAnimal Classifier: Hugging Face Space Link"

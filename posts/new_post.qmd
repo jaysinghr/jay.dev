@@ -1,0 +1,16 @@
+---
+title: "Python Callbacks: Which Not Everybody Knows"
+description: "There is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen."
+date: "2024-02-17"
+categories: ["Python", "Callbacks", "Deep Learning"]
+---
+
+## Python Callbacks
+
+### Description
+
+There is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.
+
+### Link
+
+[Python Callbacks: Which Not Everybody Knows](https://www.kaggle.com/code/anticsishere/python-callbacks-which-not-everybody-knows).
