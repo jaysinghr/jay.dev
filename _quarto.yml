@@ -13,7 +13,7 @@ website:
       - href: resume.qmd
         text: Resume
     right:
-      - text: Blog
+      - text: Blogs/Notebooks
         href: blog.qmd
       - icon: github
         href: https://github.com/jaysinghr

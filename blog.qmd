@@ -1,6 +1,6 @@
 ---
 listing:
-  contents: posts/**/*.qmd
+  contents: posts/*.qmd
   sort: "date desc"
   type: default
   categories: true
@@ -11,3 +11,4 @@ listing:
 page-layout: full
 title-block-banner: false
 ---
+
