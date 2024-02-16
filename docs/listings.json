@@ -2,14 +2,8 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/blogs.html",
-      "/posts/new_post.html"
-    ]
-  },
-  {
-    "listing": "/posts/blogs.html",
-    "items": [
-      "/posts/new_post.html"
+      "/posts/Animal_classifier.html",
+      "/posts/Callbacks.html"
     ]
   }
 ]

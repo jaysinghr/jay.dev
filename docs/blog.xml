@@ -12,60 +12,13 @@
 <generator>quarto-1.3.450</generator>
 <lastBuildDate>Fri, 16 Feb 2024 18:30:00 GMT</lastBuildDate>
 <item>
-  <title>Python Callbacks: Which Not Everybody Knows</title>
+  <title>Animal Classifier: Identifying 90 Different Animals with Fastai</title>
   <dc:creator>Jay Rajput</dc:creator>
-  <link>https://jaysinghr.github.io/posts/new_post.html</link>
+  <link>https://jaysinghr.github.io/posts/Animal_classifier.html</link>
   <description><![CDATA[ 
 
 
 
-<section id="python-callbacks" class="level2">
-<h2 class="anchored" data-anchor-id="python-callbacks">Python Callbacks</h2>
-<section id="description" class="level3">
-<h3 class="anchored" data-anchor-id="description">Description</h3>
-<p>There is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.</p>
-</section>
-<section id="link" class="level3">
-<h3 class="anchored" data-anchor-id="link">Link</h3>
-<p><a href="https://www.kaggle.com/code/anticsishere/python-callbacks-which-not-everybody-knows">Python Callbacks: Which Not Everybody Knows</a>.</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>Python</category>
-  <category>Callbacks</category>
-  <category>Deep Learning</category>
-  <guid>https://jaysinghr.github.io/posts/new_post.html</guid>
-  <pubDate>Fri, 16 Feb 2024 18:30:00 GMT</pubDate>
-</item>
-<item>
-  <title>Here are some of the content that I shared with the community</title>
-  <dc:creator>Jay Rajput</dc:creator>
-  <link>https://jaysinghr.github.io/posts/blogs.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="python-callbacks-which-not-everybody-knows" class="level2">
-<h2 class="anchored" data-anchor-id="python-callbacks-which-not-everybody-knows">Python Callbacks: Which Not Everybody Knows</h2>
-<section id="description" class="level3">
-<h3 class="anchored" data-anchor-id="description">Description</h3>
-<p>Learn how to build your own Learner class and create callbacks to customize your training loop in Python.</p>
-</section>
-<section id="link" class="level3">
-<h3 class="anchored" data-anchor-id="link">Link</h3>
-<p><a href="https://www.kaggle.com/code/anticsishere/python-callbacks-which-not-everybody-knows">Python Callbacks: Kaggle Notebook</a>.</p>
-<hr>
-</section>
-</section>
-<section id="animal-classifier-identifying-90-different-animals-with-fastai" class="level2">
-<h2 class="anchored" data-anchor-id="animal-classifier-identifying-90-different-animals-with-fastai">Animal Classifier: Identifying 90 Different Animals with Fastai</h2>
-<section id="description-1" class="level3">
-<h3 class="anchored" data-anchor-id="description-1">Description</h3>
-<p>Explore my animal classifier project, where I trained a deep learning model to identify 90 different animals using Fastai. Check out the notebook to dive into the details of the model training process and see the classifier in action. If you find it useful, feel free to give it a try and provide feedback!</p>
-</section>
 <section id="links" class="level3">
 <h3 class="anchored" data-anchor-id="links">Links</h3>
 <ul>
@@ -74,88 +27,36 @@
 </ul>
 
 
-
-</section>
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Python,Callbacks,Deep Learning" data-listing-date-sort="1708108200000" data-listing-file-modified-sort="1708072260739" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<div class="body">
-<a href="../posts/new_post.html">
-<h3 class="no-anchor listing-title">
-Python Callbacks: Which Not Everybody Knows
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Python'); return false;">
-Python
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Callbacks'); return false;">
-Callbacks
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Deep Learning'); return false;">
-Deep Learning
-</div>
-</div>
-<a href="../posts/new_post.html">
-<div class="listing-description">
-<p>There is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../posts/new_post.html">
-<div class="listing-date">
-Feb 17, 2024
-</div>
-<div class="listing-reading-time">
-1 min
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
+ ]]></description>
   <category>Python</category>
-  <category>Visualization</category>
-  <category>Callbacks</category>
-  <category>Initializations</category>
-  <category>Activations</category>
-  <category>Optimizers</category>
-  <category>Learner</category>
-  <category>Augmentations</category>
+  <category>Classifier</category>
   <category>Deep Learning</category>
-  <guid>https://jaysinghr.github.io/posts/blogs.html</guid>
-  <pubDate>Fri, 16 Feb 2024 09:23:36 GMT</pubDate>
+  <guid>https://jaysinghr.github.io/posts/Animal_classifier.html</guid>
+  <pubDate>Fri, 16 Feb 2024 18:30:00 GMT</pubDate>
+</item>
+<item>
+  <title>Python Callbacks: Which Not Everybody Knows</title>
+  <dc:creator>Jay Rajput</dc:creator>
+  <link>https://jaysinghr.github.io/posts/Callbacks.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="link" class="level3">
+<h3 class="anchored" data-anchor-id="link">Link</h3>
+<p><a href="https://www.kaggle.com/code/anticsishere/python-callbacks-which-not-everybody-knows">Python Callbacks: Which Not Everybody Knows</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Python</category>
+  <category>Callbacks</category>
+  <category>Deep Learning</category>
+  <guid>https://jaysinghr.github.io/posts/Callbacks.html</guid>
+  <pubDate>Fri, 16 Feb 2024 18:30:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
