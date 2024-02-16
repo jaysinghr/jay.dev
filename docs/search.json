@@ -63,32 +63,25 @@
     "text": "References\nAvailable upon request."
   },
   {
-    "objectID": "posts/new_post.html",
-    "href": "posts/new_post.html",
-    "title": "Python Callbacks: Which Not Everybody Knows",
-    "section": "",
-    "text": "There is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.\n\n\n\nPython Callbacks: Which Not Everybody Knows."
-  },
-  {
-    "objectID": "posts/new_post.html#python-callbacks",
-    "href": "posts/new_post.html#python-callbacks",
-    "title": "Python Callbacks: Which Not Everybody Knows",
-    "section": "",
-    "text": "There is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.\n\n\n\nPython Callbacks: Which Not Everybody Knows."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Jay Rajput",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nPython Callbacks: Which Not Everybody Knows\n\n\n\n\n\n\n\nPython\n\n\nCallbacks\n\n\nDeep Learning\n\n\n\n\nThere is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.\n\n\n\n\n\n\nFeb 17, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About",
     "section": "",
     "text": "I am a Software Developer II at Oracle. I have an extensive background working in Machine Learning, Deep Learning, Computer Vision, NLP, NLU with varied data sets and using advanced analytics to enable business stakeholders to make informed decisions.\nI recently expanded my skill set to Generative AI which include topics like Stable Diffusion, Large Language Models(RAG, Fine tuning), Hugging face, Langchain. I love learning new things constantly and sharing my knowledge with others in a easy and digestible manner."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Here are some of the content that I shared with community",
+    "section": "",
+    "text": "There is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.\n\n\n\nPython Callbacks: Which Not Everybody Knows."
+  },
+  {
+    "objectID": "blog.html#python-callbacks",
+    "href": "blog.html#python-callbacks",
+    "title": "Here are some of the content that I shared with community",
+    "section": "",
+    "text": "There is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.\n\n\n\nPython Callbacks: Which Not Everybody Knows."
   },
   {
     "objectID": "projects.html",
