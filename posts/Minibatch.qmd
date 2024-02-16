@@ -1,5 +1,5 @@
 ---
-title: "Minibatch Trainig With Validation"
+title: "Minibatch Training With Validation"
 description: "This notebook demonstrates the implementation of a basic neural network training loop using custom parameters and optimization functions. Built from scratch, it includes the setup of a dataset and data loader, as well as validation procedures. The focus is on showcasing the foundational concepts of training a neural network using minimalai, a framework developed entirely from scratch in Python. This notebook provides a clear and concise guide to understanding the fundamental components of neural network training."
 date: "2024-01-14"
 categories: ["Neural Network", "Training", "Validation"]

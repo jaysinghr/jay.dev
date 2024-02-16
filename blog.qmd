@@ -10,4 +10,13 @@ listing:
   feed: true
 page-layout: full
 title-block-banner: false
+css: |
+  .blog-listing {
+    max-width: 800px; /* Set the maximum width of the content */
+    margin: 0 auto; /* Center the content horizontally */
+  }
+
+  .blog-post {
+    margin-bottom: 30px; /* Add some space between each blog post */
+  }
 ---
