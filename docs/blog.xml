@@ -12,6 +12,28 @@
 <generator>quarto-1.3.450</generator>
 <lastBuildDate>Fri, 16 Feb 2024 18:30:00 GMT</lastBuildDate>
 <item>
+  <title>Python Callbacks: Which Not Everybody Knows</title>
+  <dc:creator>Jay Rajput</dc:creator>
+  <link>https://jaysinghr.github.io/posts/Callbacks.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="link" class="level3">
+<h3 class="anchored" data-anchor-id="link">Link</h3>
+<p><a href="https://www.kaggle.com/code/anticsishere/python-callbacks-which-not-everybody-knows">Python Callbacks: Which Not Everybody Knows</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Python</category>
+  <category>Callbacks</category>
+  <category>Deep Learning</category>
+  <guid>https://jaysinghr.github.io/posts/Callbacks.html</guid>
+  <pubDate>Fri, 16 Feb 2024 18:30:00 GMT</pubDate>
+</item>
+<item>
   <title>Animal Classifier: Identifying 90 Different Animals with Fastai</title>
   <dc:creator>Jay Rajput</dc:creator>
   <link>https://jaysinghr.github.io/posts/Animal_classifier.html</link>
@@ -34,29 +56,7 @@
   <category>Classifier</category>
   <category>Deep Learning</category>
   <guid>https://jaysinghr.github.io/posts/Animal_classifier.html</guid>
-  <pubDate>Fri, 16 Feb 2024 18:30:00 GMT</pubDate>
-</item>
-<item>
-  <title>Python Callbacks: Which Not Everybody Knows</title>
-  <dc:creator>Jay Rajput</dc:creator>
-  <link>https://jaysinghr.github.io/posts/Callbacks.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="link" class="level3">
-<h3 class="anchored" data-anchor-id="link">Link</h3>
-<p><a href="https://www.kaggle.com/code/anticsishere/python-callbacks-which-not-everybody-knows">Python Callbacks: Which Not Everybody Knows</a>.</p>
-
-
-</section>
-
- ]]></description>
-  <category>Python</category>
-  <category>Callbacks</category>
-  <category>Deep Learning</category>
-  <guid>https://jaysinghr.github.io/posts/Callbacks.html</guid>
-  <pubDate>Fri, 16 Feb 2024 18:30:00 GMT</pubDate>
+  <pubDate>Wed, 01 Nov 2023 18:30:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
