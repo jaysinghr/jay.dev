@@ -1,0 +1,10 @@
+---
+title: "Preparing Dataset and Visualization"
+description: "In this notebook, I demonstrate the process of loading and transforming data, building a custom data loader, and implementing functions to visualize individual images and images in batches. All these for our minimalai framework."
+date: "2024-01-12"
+categories: ["Datasets", "Transform", "Visualize"]
+---
+
+### Link
+
+[Preparing Dataset and Visualization: Kaggle Notebook](https://www.kaggle.com/code/anticsishere/minimalai-dataset-visualization).

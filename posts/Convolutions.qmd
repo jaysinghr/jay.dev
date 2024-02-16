@@ -1,0 +1,10 @@
+---
+title: "Convolutions: In-Depth Understanding"
+description: "This notebook provides an in-depth explanation of essential concepts in convolutional neural networks (CNNs), including filters, strides, and receptive fields. It explores the process of finding edges (top, left, diagonal) in an image using convolutional kernels and demonstrates how to apply these kernels to image regions. Additionally, the notebook covers the step-by-step construction of a CNN model from scratch, offering a comprehensive understanding of CNN architecture and operations. Whether you're new to CNNs or looking to deepen your understanding, this notebook serves as a valuable resource for learning and experimentation."
+date: "2024-01-20"
+categories: ["Convolutions", "CNN", "Deep Learning"]
+---
+
+### Link
+
+[Convolutions: In-Depth Understanding: Kaggle Notebook](https://www.kaggle.com/code/anticsishere/minimalai-convolutions).

@@ -34,6 +34,72 @@
   <pubDate>Fri, 16 Feb 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
+  <title>Convolutions: In-Depth Understanding</title>
+  <dc:creator>Jay Rajput</dc:creator>
+  <link>https://jaysinghr.github.io/posts/Convolutions.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="link" class="level3">
+<h3 class="anchored" data-anchor-id="link">Link</h3>
+<p><a href="https://www.kaggle.com/code/anticsishere/minimalai-convolutions">Convolutions: In-Depth Understanding: Kaggle Notebook</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Convolutions</category>
+  <category>CNN</category>
+  <category>Deep Learning</category>
+  <guid>https://jaysinghr.github.io/posts/Convolutions.html</guid>
+  <pubDate>Fri, 19 Jan 2024 18:30:00 GMT</pubDate>
+</item>
+<item>
+  <title>Minibatch Trainig With Validation</title>
+  <dc:creator>Jay Rajput</dc:creator>
+  <link>https://jaysinghr.github.io/posts/Minibatch.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="link" class="level3">
+<h3 class="anchored" data-anchor-id="link">Link</h3>
+<p><a href="https://www.kaggle.com/code/anticsishere/minibatch-training">Minibatch Training With Validation: Kaggle Notebook</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Neural Network</category>
+  <category>Training</category>
+  <category>Validation</category>
+  <guid>https://jaysinghr.github.io/posts/Minibatch.html</guid>
+  <pubDate>Sat, 13 Jan 2024 18:30:00 GMT</pubDate>
+</item>
+<item>
+  <title>Preparing Dataset and Visualization</title>
+  <dc:creator>Jay Rajput</dc:creator>
+  <link>https://jaysinghr.github.io/posts/Datasets.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="link" class="level3">
+<h3 class="anchored" data-anchor-id="link">Link</h3>
+<p><a href="https://www.kaggle.com/code/anticsishere/minimalai-dataset-visualization">Preparing Dataset and Visualization: Kaggle Notebook</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Datasets</category>
+  <category>Transform</category>
+  <category>Visualize</category>
+  <guid>https://jaysinghr.github.io/posts/Datasets.html</guid>
+  <pubDate>Thu, 11 Jan 2024 18:30:00 GMT</pubDate>
+</item>
+<item>
   <title>Animal Classifier: Identifying 90 Different Animals with Fastai</title>
   <dc:creator>Jay Rajput</dc:creator>
   <link>https://jaysinghr.github.io/posts/Animal_classifier.html</link>

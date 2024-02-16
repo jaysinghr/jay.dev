@@ -3,6 +3,9 @@
     "listing": "/blog.html",
     "items": [
       "/posts/Callbacks.html",
+      "/posts/Convolutions.html",
+      "/posts/Minibatch.html",
+      "/posts/Datasets.html",
       "/posts/Animal_classifier.html",
       "/posts/Car_classifier.html"
     ]
