@@ -72,23 +72,23 @@
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Here are some of the content that I shared with community",
+    "title": "Here are some of the content that I shared with the community",
     "section": "",
-    "text": "There is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.\n\n\n\nPython Callbacks: Kaggle Notebook."
+    "text": "Learn how to build your own Learner class and create callbacks to customize your training loop in Python.\n\n\n\nPython Callbacks: Kaggle Notebook."
   },
   {
     "objectID": "blog.html#python-callbacks-which-not-everybody-knows",
     "href": "blog.html#python-callbacks-which-not-everybody-knows",
-    "title": "Here are some of the content that I shared with community",
+    "title": "Here are some of the content that I shared with the community",
     "section": "",
-    "text": "There is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.\n\n\n\nPython Callbacks: Kaggle Notebook."
+    "text": "Learn how to build your own Learner class and create callbacks to customize your training loop in Python.\n\n\n\nPython Callbacks: Kaggle Notebook."
   },
   {
     "objectID": "blog.html#animal-classifier-identifying-90-different-animals-with-fastai",
     "href": "blog.html#animal-classifier-identifying-90-different-animals-with-fastai",
-    "title": "Here are some of the content that I shared with community",
+    "title": "Here are some of the content that I shared with the community",
     "section": "Animal Classifier: Identifying 90 Different Animals with Fastai",
-    "text": "Animal Classifier: Identifying 90 Different Animals with Fastai\n\nDescription\nExplore my animal classifier project, where I trained a deep learning model to identify 90 different animals. Leveraging the power of the Fastai library and the Fastbook tutorial, this project showcases the application of deep learning in image classification. Check out the notebook to dive into the details of the model training process and see the classifier in action. If you find it useful, feel free to give it a try and provide feedback!\n\n\nLink\nAnimal Classifier: Kaggle Notebook. Animal Classifier: Hugging Face Space Link."
+    "text": "Animal Classifier: Identifying 90 Different Animals with Fastai\n\nDescription\nExplore my animal classifier project, where I trained a deep learning model to identify 90 different animals using Fastai. Check out the notebook to dive into the details of the model training process and see the classifier in action. If you find it useful, feel free to give it a try and provide feedback!\n\n\nLinks\n\nAnimal Classifier: Kaggle Notebook\nAnimal Classifier: Hugging Face Space Link"
   },
   {
     "objectID": "projects.html",

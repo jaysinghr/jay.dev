@@ -1,6 +1,6 @@
 ---
-title: "Here are some of the content that I shared with community"
-description: "These includes notebooks, blogs, etc... If you found value in my notebook, I would greatly appreciate your support through an UPVOTE. Additionally, I welcome any constructive reviews or suggestions for improvement. Thank you for your consideration!"
+title: "Here are some of the content that I shared with the community"
+description: "These include notebooks, blogs, etc... If you found value in my notebook, I would greatly appreciate your support through an UPVOTE. Additionally, I welcome any constructive reviews or suggestions for improvement. Thank you for your consideration!"
 categories: ["Python", "Visualization", "Callbacks", "Initializations", "Activations", "Optimizers", "Learner", "Augmentations", "Deep Learning"]
 listing:
   sort: "date desc"
@@ -18,7 +18,7 @@ title-block-banner: false
 
 ### Description
 
-There is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.
+Learn how to build your own Learner class and create callbacks to customize your training loop in Python.
 
 ### Link
 
@@ -30,9 +30,9 @@ There is a very interesting thing I learnt which is to build our own Learner cla
 
 ### Description
 
-Explore my animal classifier project, where I trained a deep learning model to identify 90 different animals. Leveraging the power of the Fastai library and the Fastbook tutorial, this project showcases the application of deep learning in image classification. Check out the notebook to dive into the details of the model training process and see the classifier in action. If you find it useful, feel free to give it a try and provide feedback!
+Explore my animal classifier project, where I trained a deep learning model to identify 90 different animals using Fastai. Check out the notebook to dive into the details of the model training process and see the classifier in action. If you find it useful, feel free to give it a try and provide feedback!
 
-### Link
+### Links
 
-[Animal Classifier: Kaggle Notebook](https://www.kaggle.com/code/anticsishere/animal-classifier).
-[Animal Classifier: Hugging Face Space Link](https://huggingface.co/spaces/Jay-Rajput/Animal-Classifier).
+- [Animal Classifier: Kaggle Notebook](https://www.kaggle.com/code/anticsishere/animal-classifier)
+- [Animal Classifier: Hugging Face Space Link](https://huggingface.co/spaces/Jay-Rajput/Animal-Classifier)
