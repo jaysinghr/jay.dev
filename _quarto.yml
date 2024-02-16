@@ -14,7 +14,7 @@ website:
         text: Resume
     right:
       - text: Blogs/Notebooks
-        href: blog.qmd
+        href: blogs.qmd
       - icon: github
         href: https://github.com/jaysinghr
       - icon: twitter

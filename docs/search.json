@@ -91,6 +91,27 @@
     "text": "Animal Classifier: Identifying 90 Different Animals with Fastai\n\nDescription\nExplore my animal classifier project, where I trained a deep learning model to identify 90 different animals using Fastai. Check out the notebook to dive into the details of the model training process and see the classifier in action. If you find it useful, feel free to give it a try and provide feedback!\n\n\nLinks\n\nAnimal Classifier: Kaggle Notebook\nAnimal Classifier: Hugging Face Space Link"
   },
   {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Here are some of the content that I shared with the community",
+    "section": "",
+    "text": "Learn how to build your own Learner class and create callbacks to customize your training loop in Python.\n\n\n\nPython Callbacks: Kaggle Notebook."
+  },
+  {
+    "objectID": "blogs.html#python-callbacks-which-not-everybody-knows",
+    "href": "blogs.html#python-callbacks-which-not-everybody-knows",
+    "title": "Here are some of the content that I shared with the community",
+    "section": "",
+    "text": "Learn how to build your own Learner class and create callbacks to customize your training loop in Python.\n\n\n\nPython Callbacks: Kaggle Notebook."
+  },
+  {
+    "objectID": "blogs.html#animal-classifier-identifying-90-different-animals-with-fastai",
+    "href": "blogs.html#animal-classifier-identifying-90-different-animals-with-fastai",
+    "title": "Here are some of the content that I shared with the community",
+    "section": "Animal Classifier: Identifying 90 Different Animals with Fastai",
+    "text": "Animal Classifier: Identifying 90 Different Animals with Fastai\n\nDescription\nExplore my animal classifier project, where I trained a deep learning model to identify 90 different animals using Fastai. Check out the notebook to dive into the details of the model training process and see the classifier in action. If you find it useful, feel free to give it a try and provide feedback!\n\n\nLinks\n\nAnimal Classifier: Kaggle Notebook\nAnimal Classifier: Hugging Face Space Link"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "My Personal Projects",

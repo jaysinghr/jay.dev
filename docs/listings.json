@@ -2,6 +2,16 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blogs.html",
+      "/index.html",
+      "/projects.html",
+      "/resume.html"
+    ]
+  },
+  {
+    "listing": "/blogs.html",
+    "items": [
+      "/blog.html",
       "/index.html",
       "/projects.html",
       "/resume.html"
