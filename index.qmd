@@ -1,14 +1,11 @@
 ---
-title: "About"
+title: "Jaydeepsinh Rajput"
 image: my-profile.png
 about:
   template: jolla
-  image-width: 15em
+  image-width: 10em
   image-shape: round
   links:
-    - icon: kaggle
-      text: Kaggle
-      href: https://www.kaggle.com/anticsishere
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/jaydeepsinh-rajput/

@@ -7,12 +7,10 @@ listing:
   sort-ui: true
   filter-ui: true
   fields: [date, title, reading-time, description, categories]
-  feed: true
-page-layout: full
+page-layout: article
 title-block-banner: false
 css: |
   .blog-listing {
-    max-width: 800px; /* Set the maximum width of the content */
     margin: 0 auto; /* Center the content horizontally */
   }
 
