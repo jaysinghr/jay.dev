@@ -58,5 +58,29 @@
   <guid>https://jaysinghr.github.io/posts/Animal_classifier.html</guid>
   <pubDate>Wed, 01 Nov 2023 18:30:00 GMT</pubDate>
 </item>
+<item>
+  <title>Car Classifier: Error rate 0.10 with fast.ai in 7 Epochs</title>
+  <dc:creator>Jay Rajput</dc:creator>
+  <link>https://jaysinghr.github.io/posts/Car_classifier.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="links" class="level3">
+<h3 class="anchored" data-anchor-id="links">Links</h3>
+<ul>
+<li><a href="https://www.kaggle.com/code/anticsishere/error-rate-0-10-with-fast-ai-in-7-epochs">Car Classifier: Kaggle Notebook</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Python</category>
+  <category>Classifier</category>
+  <category>Deep Learning</category>
+  <guid>https://jaysinghr.github.io/posts/Car_classifier.html</guid>
+  <pubDate>Wed, 01 Nov 2023 18:30:00 GMT</pubDate>
+</item>
 </channel>
 </rss>

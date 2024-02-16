@@ -1,0 +1,10 @@
+---
+title: "Car Classifier: Error rate 0.10 with fast.ai in 7 Epochs"
+description: "Explore my car classifier project, where I trained a deep learning model to identify 196 different cars using Fastai. Check out the notebook to dive into the details of the model training process and see the classifier in action. If you find it useful, feel free to give it a try and provide feedback!"
+date: "2023-11-02"
+categories: ["Python", "Classifier", "Deep Learning"]
+---
+
+### Links
+
+- [Car Classifier: Kaggle Notebook](https://www.kaggle.com/code/anticsishere/error-rate-0-10-with-fast-ai-in-7-epochs)

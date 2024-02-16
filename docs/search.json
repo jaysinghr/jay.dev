@@ -63,11 +63,25 @@
     "text": "References\nAvailable upon request."
   },
   {
-    "objectID": "posts/Callbacks.html",
-    "href": "posts/Callbacks.html",
-    "title": "Python Callbacks: Which Not Everybody Knows",
+    "objectID": "posts/Car_classifier.html",
+    "href": "posts/Car_classifier.html",
+    "title": "Car Classifier: Error rate 0.10 with fast.ai in 7 Epochs",
     "section": "",
-    "text": "Link\nPython Callbacks: Which Not Everybody Knows."
+    "text": "Links\n\nCar Classifier: Kaggle Notebook"
+  },
+  {
+    "objectID": "posts/Animal_classifier.html",
+    "href": "posts/Animal_classifier.html",
+    "title": "Animal Classifier: Identifying 90 Different Animals with Fastai",
+    "section": "",
+    "text": "Links\n\nAnimal Classifier: Kaggle Notebook\nAnimal Classifier: Hugging Face Space Link"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Jay Rajput",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nPython Callbacks: Which Not Everybody Knows\n\n\n\n\n\n\n\nPython\n\n\nCallbacks\n\n\nDeep Learning\n\n\n\n\nThere is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.\n\n\n\n\n\n\nFeb 17, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\nAnimal Classifier: Identifying 90 Different Animals with Fastai\n\n\n\n\n\n\n\nPython\n\n\nClassifier\n\n\nDeep Learning\n\n\n\n\nExplore my animal classifier project, where I trained a deep learning model to identify 90 different animals using Fastai. Check out the notebook to dive into the details of the model training process and see the classifier in action. If you find it useful, feel free to give it a try and provide feedback!\n\n\n\n\n\n\nNov 2, 2023\n\n\n1 min\n\n\n\n\n\n\n\n\nCar Classifier: Error rate 0.10 with fast.ai in 7 Epochs\n\n\n\n\n\n\n\nPython\n\n\nClassifier\n\n\nDeep Learning\n\n\n\n\nExplore my car classifier project, where I trained a deep learning model to identify 196 different cars using Fastai. Check out the notebook to dive into the details of the model training process and see the classifier in action. If you find it useful, feel free to give it a try and provide feedback!\n\n\n\n\n\n\nNov 2, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -77,18 +91,11 @@
     "text": "I am a Software Developer II at Oracle. I have an extensive background working in Machine Learning, Deep Learning, Computer Vision, NLP, NLU with varied data sets and using advanced analytics to enable business stakeholders to make informed decisions.\nI recently expanded my skill set to Generative AI which include topics like Stable Diffusion, Large Language Models(RAG, Fine tuning), Hugging face, Langchain. I love learning new things constantly and sharing my knowledge with others in a easy and digestible manner."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Jay Rajput",
+    "objectID": "posts/Callbacks.html",
+    "href": "posts/Callbacks.html",
+    "title": "Python Callbacks: Which Not Everybody Knows",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nPython Callbacks: Which Not Everybody Knows\n\n\n\n\n\n\n\nPython\n\n\nCallbacks\n\n\nDeep Learning\n\n\n\n\nThere is a very interesting thing I learnt which is to build our own Learner class. So Learner class is going to be a very general purpose training loop, which we can get it to do anything that we want it to do. And we gonna be creating things called callbacks to to make that happen.\n\n\n\n\n\n\nFeb 17, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\nAnimal Classifier: Identifying 90 Different Animals with Fastai\n\n\n\n\n\n\n\nPython\n\n\nClassifier\n\n\nDeep Learning\n\n\n\n\nExplore my animal classifier project, where I trained a deep learning model to identify 90 different animals using Fastai. Check out the notebook to dive into the details of the model training process and see the classifier in action. If you find it useful, feel free to give it a try and provide feedback!\n\n\n\n\n\n\nNov 2, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/Animal_classifier.html",
-    "href": "posts/Animal_classifier.html",
-    "title": "Animal Classifier: Identifying 90 Different Animals with Fastai",
-    "section": "",
-    "text": "Links\n\nAnimal Classifier: Kaggle Notebook\nAnimal Classifier: Hugging Face Space Link"
+    "text": "Link\nPython Callbacks: Which Not Everybody Knows."
   },
   {
     "objectID": "projects.html",

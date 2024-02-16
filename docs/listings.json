@@ -3,7 +3,8 @@
     "listing": "/blog.html",
     "items": [
       "/posts/Callbacks.html",
-      "/posts/Animal_classifier.html"
+      "/posts/Animal_classifier.html",
+      "/posts/Car_classifier.html"
     ]
   }
 ]
